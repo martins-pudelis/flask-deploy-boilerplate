@@ -9,5 +9,5 @@ def hello_world():
 
 
 @app.route("/bye")
-def hello_world():
+def bye_world():
     return "<p>Bye, World!</p>"
